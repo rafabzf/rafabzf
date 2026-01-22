@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, Meu nome é Rafael Bleyer Zanette</h1>
 <h3 align="center">Tenho 22 anos e terminando meu Ensino Médio já ingressei na área da programação. Estou cursando Sistemas de Informação na UFSC e me formei em julho de 2023 em um curso de Desenvolvimento Web, o que me ajudou a aprender a organizar melhor meu tempo, trabalhar meu comprometimento e foco com minhas responsabilidades, além de aprender linguagens e novas tecnologias. Tenho um espírito empreendedor, ainda na escola abri uma loja de roupas online, onde desenvolvi Soft Skills importantes para meu trabalho e minha vida! Aprendi também a lidar com público e clientes, além da técnica da negociação.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafabzf&label=Profile%20views&color=0e75b6&style=flat" alt="rafabzf" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafabzf" alt="rafabzf" /></a> </p>
 
 - 🌱 No momento estou cursando **Sistemas de Informação-UFSC**
@@ -21,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafabzf&show_icons=true&locale=en&layout=compact" alt="rafabzf" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafabzf&show_icons=true&locale=en" alt="rafabzf" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafabzf&" alt="rafabzf" /></p>
